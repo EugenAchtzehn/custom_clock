@@ -3,11 +3,11 @@ const mainNode = document.getElementById("main-content");
 
 let cities = [
   { name: "台北", en: "TPE", timezone: "Asia/Taipei" },
-  { name: "日本", en: "JPN", timezone: "Asia/Tokyo" },
+  { name: "東京", en: "TKY", timezone: "Asia/Tokyo" },
   { name: "紐約", en: "NYC", timezone: "America/New_York" },
   { name: "舊金山", en: "SFC", timezone: "America/Los_Angeles" },
   { name: "倫敦", en: "LDN", timezone: "Europe/London" },
-  { name: "瑞士", en: "CHE", timezone: "Europe/Zurich" },
+  { name: "蘇黎世", en: "ZRH", timezone: "Europe/Zurich" },
   { name: "休士頓", en: "HOU", timezone: "America/Chicago" },
 ];
 
