@@ -1,0 +1,41 @@
+.container {
+  font-family: Arial, "Microsoft JhengHei", Helvetica, sans-serif;
+}
+
+.timebox {
+  border-radius: 1rem;
+}
+
+#TPE_box {
+  background-color: #28a745;
+}
+
+#JPN_box {
+  background-color: #17a2b8;
+}
+
+#NYC_box {
+  background-color: #ffc220;
+}
+
+#SFC_box {
+  background-color: #b8500c;
+}
+
+#LDN_box {
+  background-color: #000080;
+}
+
+#CHE_box {
+  background-color: #6c757d;
+}
+
+#HOU_box {
+  background-color: #dc3545;
+}
+
+@media (max-width: 768px) {
+  .timebox {
+    margin-top: 1rem;
+  }
+}
